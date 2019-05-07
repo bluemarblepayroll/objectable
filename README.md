@@ -75,7 +75,7 @@ As you can see you do not have to worry about nested object traversal, dot-notat
 
 ### Setting Values
 
-Say we want to update a the `id` and `first` attributes from the objects:
+Say we want to update the `id` and `first` attributes from the objects:
 
 ```ruby
 resolver = Objectable.resolver
